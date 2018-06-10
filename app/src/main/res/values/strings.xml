@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Moe\'s Doughs</string>
+    <string name="address">126 Nassau Ave\nBrooklyn, New York</string>
+    <string name="phone">(718) 349&#8211;1216</string>
+    <string name="about">At Moe\'s Doughs, we bake fresh donuts and pastries daily. These sweet
+        inventions will take your taste buds to places they have never been. Check us out!</string>
+    <string name="business_logo">Business Logo</string>
+    <string name="facebook_logo">Facebook Logo</string>
+    <string name="instagram_logo">Instagram Logo</string>
+
+</resources>
